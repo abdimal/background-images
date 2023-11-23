@@ -1,0 +1,26 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-image: url(images/premium_photo-1700141482421-0840fecfcdbc.avif);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    display: inline-block;
+    
+}
+a{
+    color: white;
+    padding: 30px;
+    margin-left: 70px;
+    font-size: 30px;
+    text-decoration: none;
+    background-color: red;
+    border-radius: 40px;
+}
+a:hover{
+    background-color: black;
+}
